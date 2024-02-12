@@ -1,5 +1,3 @@
-<img src='https://imgur.com/OPJFhtw.png' alt='capa do curso' />
-
 ## CodeConnect
 Uma rede social para pessoas desenvolvedoras compartilharem seus projetos e trechos de códigos, possiibilitando a interação via comentário ou compartilhamento.
 
